@@ -1,1 +1,1 @@
-Contains aggregated output JSON and CSV file for all scraped product urls.
+Contains aggregated sample output JSON and CSV files for scraped product urls.
